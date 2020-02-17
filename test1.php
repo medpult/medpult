@@ -2,4 +2,5 @@
 
 echo 'MedPult';
 
+echo 'calendar';
 ?>
